@@ -1,0 +1,12 @@
+/*
+Theme Name: BuddyPress Artmob
+Theme URI: http://thedoersproject.com
+Description: Artmob project theme for BuddyPress.
+Version: 0.1
+Author: Piermaria Cosina, Manuela Cammilleri, Gabriele Marchi, Irene Cassarino
+Author URI: http://thedoersproject.com
+Template: bp-default
+Tags: buddypress, two-column
+*/
+
+@import url('./css/css.css');
